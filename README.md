@@ -1,10 +1,8 @@
-## Hi there 👋
-
 ## 👋 Hi there, I’m Guilherme!
 
 🎓 **Computer Science Student** | 3rd Term  
 
-💻 **Machine Learning Engineer** with experience in Python, data preprocessing, model training, and evaluation using frameworks
+💻 **Machine Learning Engineer** with experience in Python, data preprocessing, model training, evaluation and Back-end
 
 🌍 Passionate about exploring new cultures and sharing knowledge
 
@@ -30,8 +28,8 @@ In a project for **Tray** (Marília-SP), I’m leading the entire development pr
 
 ### 🛠️ Tools & Technologies
 
-- **Languages:** Python, SQL, JavaScript, HTML, CSS  
-- **ML / DL:** PyTorch, TensorFlow, OpenCV, YOLO
+- **Languages:** Python, SQL, TypeScript
+- **ML / DL:** PyTorch, OpenCV, YOLO
 
 ---
 
