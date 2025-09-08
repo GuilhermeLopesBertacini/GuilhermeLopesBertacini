@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Guilherme!
 
-🎓 **Computer Science Student** | 3rd Term  
+🎓 **Computer Science Student**
 
 💻 **Machine Learning Engineer** with experience in Python, data preprocessing, model training, evaluation and Back-end
 
